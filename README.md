@@ -2,6 +2,7 @@
 - Model that predicts Red and White Wine quality grading through utilizing linear regression
   
 - Data used in prediction results:
+  
    1 - fixed acidity
   
    2 - volatile acidity
