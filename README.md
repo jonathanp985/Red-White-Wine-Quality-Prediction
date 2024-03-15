@@ -3,15 +3,25 @@
   
 - Data used in prediction results:
    1 - fixed acidity
+  
    2 - volatile acidity
+  
    3 - citric acid
+  
    4 - residual sugar
+  
    5 - chlorides
+  
    6 - free sulfur dioxide
+  
    7 - total sulfur dioxide
+
    8 - density
+  
    9 - pH
+  
    10 - sulphates
+  
    11 - alcohol
   
 - Predicts Quality from 1 - 10 purely through numerical physicochemical properties
